@@ -1,5 +1,5 @@
 # - (｡･∀･)ﾉﾞ
 ### Catdogdonkey
 - Godot is my honeybun sugarplum
-- I make bad pixel art
+- I make pixel art
 - :D
